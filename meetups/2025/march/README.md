@@ -1,8 +1,7 @@
 # LCC - "php artisan restart" - first online meetup of 2025
 [**VIEW RECORDING - 158 mins (10 mins of highlights)**](https://fathom.video/share/ASxptsWqQw7i58zWgDz9CVEJ4BywKGVj)
 
-
-
+![image](https://raw.githubusercontent.com/laravelchennai/community-hq/refs/heads/main/meetups/2025/march/LCC%20Online%20Meetup%20Group%20Picture.png)
 ---
 ## Executive Summary
 
